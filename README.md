@@ -1,1 +1,1 @@
-# Code for Reinforced Embedding for Few-shot Classification
+# Pytorch Implementation of Reinforced Feature Embedding for Few-shot Classification
